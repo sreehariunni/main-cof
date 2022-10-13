@@ -1,0 +1,316 @@
+#x{
+    height: 170px;
+    background-color: white;
+    margin-top:-1%;
+    
+}
+body{
+    background-image: url('./cof.webp');
+background-size: 20%;
+}
+span{
+    color: yellow;
+    border: 9px double white;
+    background-color: black;
+    
+}
+
+h1{text-align: center;
+font-family:cursive;
+}
+
+h1 :hover{
+    background-color: red;
+    color: white;   
+}
+h3{
+    color:rgb(203, 39, 39) ;
+    text-align: center;
+}
+hr{
+    color: red ;
+    border: 2px double blue;
+}
+
+i{color: red;}
+
+h4{
+    text-align:left ;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: rgb(0, 255, 140);
+    font-size: 20px;
+    margin-left: 25%;
+    text-decoration: none;
+     
+}
+a:hover{
+    color: white
+    
+    
+}
+#v{margin-top: 2%;
+    background-color: white;
+    width: 500px;
+    height: 260px;
+   margin-left: 31%;
+   border-radius:5%;
+   padding: 1%;
+   font-size: large;
+   background-image: url("./de");
+   background-size: 100%;
+   border-radius: 5%; 
+   /* box-shadow: 10px 10px 5px lightblue inset;   */
+}
+
+button {
+    transition-duration: 0.4s;
+    margin-left: 34%;
+    border-radius: -17%;
+    
+
+  }
+  
+  button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border-radius: 15%;
+  }
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 1%;
+    color: white;
+    
+}
+#j{
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 0 0 3px rgb(0, 255, 13);
+
+}
+.r{
+    background-color: rgb(49, 46, 245);
+    border: 0px;
+    color: greenyellow;
+}
+.t{
+    background-color: rgb(49, 46, 245);
+border: 0px;
+color: greenyellow;
+}
+.g{margin-top: 2%;
+    
+    display: flex;
+    justify-content: space-around;
+    /* background-color: white; */
+}
+.col{
+    width: 400px;
+    height: 500px;
+    /* background-color: blue; */
+    float: left;   
+    border: 5px double black;
+    border-radius: 5%;
+    box-shadow: 10px 10px 5px lightblue;
+    background-image: url("./cof\ lanf.jfif");
+}
+.col-1{
+    background-color: white;}
+#j{margin-left: 10%;
+margin-top: 5%;
+border-radius: 2%;}
+.col-2{
+    background-color: white;}
+.col-3{
+    background-color: white;
+}
+#k{border-radius: 2%;
+  height: 300px;
+  width: 350px;  
+  margin-left: 6%;
+  margin-top: 5%;
+}
+.b{
+    margin-left: 21%;
+    color: red;
+    
+}
+.n{
+    color: rgb(132, 0, 255);
+    text-align: center;
+    margin-left: 2%;
+}
+.b :hover{
+}
+#y{
+    text-align: center;
+    color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+h4{
+    box-shadow: greenyellow;
+}
+#y{
+    /* background-color: green ; */
+    border: 2px solid gold;
+}
+
+
+
+#o{margin-top: 5%;
+    background-color: white;
+    width: 500px;
+    height: 260px;
+   margin-left: 31%;
+   border-radius:5%;
+   padding: 1%;
+   font-size: large;
+   background-image: url("./smoke.jpg");
+   background-size: 600px;
+   border-radius: 5%; 
+}
+#z{text-align: center;
+    
+    color: red;
+}
+.w {
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 30%;
+  }
+  
+  .w :hover{opacity: 1}
+#g{
+    font-family: 'Alkalami', serif;
+    color:greenyellow;
+}
+.f{
+height: 290px;
+}
+
+
+.btn-group .button {
+    background-color: #4CAF50; /* Green */
+    border: 3px solid rgb(128, 41, 0);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    float: left;
+    margin-left: 1%;
+    margin-top: -3%;
+  }
+  
+  
+  
+  .btn-group .button:hover {
+    background-color: #723e8e;
+  color: #f4511e;}
+
+
+  .u{border: 2px solid blue;
+/* height: 300px; */
+text-align: center;
+border-radius: 5px;
+padding: 20px;
+background-image: url("./bar.webp");
+background-position: 100px;
+  }
+  .i{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+
+  }
+  .i:hover{
+    color: black;
+    background-color: aqua;
+  }
+  input{
+    width: 50%;
+    color: black;
+    background-color: white;
+  }
+  .l{
+    color: red;
+    background-color: aqua;
+    border: 2px solid rgb(64, 0, 128);
+  }
+  .y{
+    color: blue;
+}
+.y:hover{
+    color: red;}
+
+.b1{
+    color: rgb(13, 255, 0);
+    margin-left: 1%;
+    text-decoration: none;
+    background-color: black;
+}
+.b1:hover{
+    color: #f4511e;}
+/* #c{
+color: yellow;
+font-size: larger;
+background-color:black;
+} */
+#qq {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+  }
+  
+  #qq:focus {
+    width: 100%;
+  }
+
+  .yu{
+    font-size: xx-large;
+    color: aqua;
+  }
+.rt{
+    color: black;
+    border: 3px solid yellow;
+
+
+}
+.k{
+    border-color: #ccc;
+}
+.nm{
+    text-align: center;
+    margin-top: -2%;
+    font-size: large;
+}
+.kk{
+    text-align: center;
+    color: yellow;
+    margin-left: 41%;
+}
+.kk:hover{
+    color:white;
+    background-color:black;
+}

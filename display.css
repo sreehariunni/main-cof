@@ -1,0 +1,33 @@
+.r{
+    height: 400px;
+    background-color: gray;
+    display: flex;
+    /* justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly; */
+    
+    justify-content: space-around;
+    /* justify-content: end; */
+
+align-items: center;
+}
+
+
+.col{
+    height: 300px;
+    width: 200px;
+    border: 2px double black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.col-1{
+    background-color: aqua;
+}
+.col-2{
+    background-color: green;
+}
+.col-3{
+    background-color: red;
+}
+.col-4{
+    background-color: blue;
+}

@@ -1,0 +1,48 @@
+#e{
+    text-align: center;
+    color: rgb(212, 255, 0);
+}
+.c{
+    background-color:black;
+    height: 800px;
+    width: 100%;
+}
+.col{
+    height: 550px;
+    width: 334px;
+    position: absolute;
+    border: 4px solid white;
+    top: 70px;
+}
+.col-1{
+    left: 49px;
+color: white;
+}
+.col-2{
+    left: 770px;
+    color: white;
+}
+.col-3{
+    left: 1135px;
+    color: white;
+}.col-4{
+    left: 410px;
+    color: white;
+}
+img{
+    height: 200px;
+    width: 100%;
+}
+H2{
+    text-align: center;
+    color: yellow;
+}
+p{
+    padding: 2%;
+}
+#r{
+    border:3px solid rgb(200, 255, 0) ;
+width: 85%;
+margin-left: 20px;
+text-align: center;
+}

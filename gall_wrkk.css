@@ -1,0 +1,32 @@
+div{
+    background-color: black;
+    height: 900px;
+    width: 1400px;
+}
+.col{
+    height:500px ;
+    width:300px ;
+    background-color: yellow;
+    position: absolute;
+    top: 10%;
+}
+.col-1{
+    
+    background-color: green;
+    
+}
+.col-2{
+    
+    background-color: rgb(49, 0, 128);
+    left: 320px;
+}
+.col-3{
+    
+    background-color: green;
+    left: 631px;
+}
+.col-4{
+    
+    background-color: rgb(128, 58, 0);
+    left: 941px;
+}

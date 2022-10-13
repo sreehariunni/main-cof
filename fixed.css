@@ -1,0 +1,16 @@
+/* div{
+    height: 200px;
+    background-color: yellow;
+    width: 300px;
+    position: fixed;
+    left: 50%;
+    top: 10px;
+} */
+
+div{
+height: 200px;
+    background-color: yellow;
+    width: 300px;
+    position: sticky ;
+    top: 0px;
+}

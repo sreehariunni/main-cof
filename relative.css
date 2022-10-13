@@ -1,0 +1,15 @@
+#parent{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    position: relative;
+left: 20%;
+}
+
+#child{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    position: absolute;
+left: 50%;
+}

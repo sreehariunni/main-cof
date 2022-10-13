@@ -1,0 +1,40 @@
+.f{
+    background-color: black;
+    height: 800px;
+    width: 100%;
+    
+}
+#i{
+    text-align: center;
+    color: aliceblue;
+}
+.col{
+    height: 700px;
+    width: 23%;
+    position: absolute;
+    border: 5px solid yellow;
+    top: 20%;
+}
+.col-1{
+    left: 2%;
+    background-color: green;
+}
+.col-2{
+  left: 26%;
+  background-color: palevioletred  
+}
+.col-3{
+   left: 50%; 
+    background-color: navy;
+}
+.col-4{
+    left: 75%;
+    background-color: palegreen;
+}
+img{
+    height: 300px;
+    width: 100%;
+    image-resolution: ;
+    
+    
+}

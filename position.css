@@ -1,0 +1,21 @@
+.col{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(43, 255, 0);
+}
+
+.col-1{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+position: absolute;
+left: 50%;
+}
+.col-2{
+    height: 300px;
+    width: 300px;
+background-color: red;
+position: absolute;
+top: 300px;
+}
+/* static absolute */

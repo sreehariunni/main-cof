@@ -1,0 +1,77 @@
+body{
+background-image: url("./5.webp");
+    background-size: cover;
+}
+.r{
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+}
+.col{
+    height: 430px;
+    width: 300px;
+    border: 6px double black;
+    border-radius: 20px;
+    box-shadow: 10px 10px;
+}
+
+.col-1{background-color: yellow;
+
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+.col-2{
+    background-color: yellow;
+}
+.col-3{
+    background-color: yellow;
+}
+.col-4{
+    background-color: yellow;
+}
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+p{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#a{
+    height: 20px;
+    width: 200px;
+    border: 6px double red;
+    color: black ;
+    border-radius: 10%;
+    background-color:gold;
+   margin-left: 15%;
+}
+button{
+    margin-left: 36%;
+    color:white ;
+    background-color: blue;
+    border-radius: 20px;
+    border: darkorange 5px solid;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+span{
+    background-color: black;
+}
+HR{
+    border: 3px solid yellow;
+}
+#e{
+    border: 2px solid black;
+    color: gold;
+}

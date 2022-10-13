@@ -1,0 +1,51 @@
+body{
+    background-image: url("./cof.webp");
+    background-size: 20%; 
+
+}
+
+span{
+    color: yellow;
+    border: 9px double white;
+    background-color: black;
+}
+
+h1{text-align: center;
+font-family:cursive;
+margin-top: -70px;
+}
+
+h1 :hover{
+    background-color: red;
+    color: white;
+    
+}
+
+hr{
+    color: black;
+    border: 1px solid red;
+margin-top:-11px;
+}
+
+
+
+h3{
+    color:rgb(203, 39, 39) ;
+    text-align: center;
+}
+
+div{
+    background-color: white;
+    height: 100px; 
+}
+i{ color: red;
+    
+}
+h4{
+    color: blue;
+    
+}
+i :hover{
+    background-color: black;
+}
+
